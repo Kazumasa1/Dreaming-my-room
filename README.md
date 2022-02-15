@@ -2,7 +2,7 @@
 デスクツアーやルームツアーの動画が好きなので、私の部屋も3Dモデルを用いて公開してみました <br>
 https://kazumasa1.github.io/MY-ROOM-TOUR/
 ## Description
-LiDARセンサーの付いたiPadを使い、自室を3DスキャンしてThree.jsを用いてブラウザ上で見れるようにしました。<br>
+LiDARセンサーの付いたiPadを使い、自室を3DスキャンしてThree.jsでブラウザ上で見れるようにしました。<br>
 #### 3Dスキャンに使用したもの
 - iPad Pro（11インチ）（第2世代）
 - 3d Scanner App
